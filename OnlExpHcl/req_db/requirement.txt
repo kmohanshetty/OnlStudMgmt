@@ -1,0 +1,103 @@
+HCL TECHNOLOGIES LTD
+
+5th Floor, Gold Hill Square (Also called as Sasken OR Bosch building)
+
+690, Hosur Road, (Opposite to Oxford Engineering College)
+
+Bommanahalli
+
+Bangalore-560068
+
+ 
+
+ 
+
+ 
+
+Contact HR Person: Karthikeyan NANDHA
+
+ 
+
+Documents to carry: a) Photograph of yours. B) 1 copy of resumes c) Any identity proof like driver license / PAN card
+
+ 
+
+ 
+
+Please acknowledge this mail with your confirmation, for any further clarification Mail me.
+
+ 
+
+ NOTE- Please bring print out of this mail along with resume, 1 passport size
+
+photographs.
+
+ 
+
+ 
+
+Pls go thru this below attachment for initial round of discussion as same for the interview itself.
+
+ 
+
+Kindly prepared then come to attend this interview definitely you will get the placement for HCL..Great effort get success in future ALL THE VERY BEST.
+CODING TEST – Duration is 2hrs (Max 3rs)
+Summary:
+
+This test evaluates the candidates on his web application development skills in j2ee technologies. It tests the candidate on various aspects of web development like OOPS, Database Entity Design, knowledge of html, CSS and Ajax and usage of frameworks like Hibernate, Spring and Struts.
+Choose ONE of the below
+Online Shopping Cart system:
+
+There are 2 primary actors, storekeeper and user. There are catalogue of computer peripherals like mouse, keyboard, motherboard, cpu, Bluetooth mouse etc. User can login to the system and create a shopping cart with multiple items from the catalogue and save it. Storekeeper will login and see the list of pending shopping carts for all the users with filters like catalogue and dates. Create catalogue data in the database, no need to provide to create these from UI.
+Online Expense tracking system:
+
+There are 2 primary actors, manager and user. User can raise the expense against a project. User can see all his expenses raised, with filter on dates and project. Manager can review the expenses of all the users. Create project data in the database, no need to provide to create these from UI.
+Online Message Exchange system:
+
+User1 can raise a message to User2 and User 2 can reply back to User 2. Message can have subject and body. There can be list of all messages sorted by user name, subject etc… also there can be filters like message received by, date range, messages sent to, and message containing text
+Overall requirement:
+
+·         Technologies to be used: jsp, javascript, html, css, Ajax (Grid and Dropdown), JDBC,servlet
+
+·         Datastorage: MySql
+
+·         Other requirements: Create user login data in the database, no need to provide to create these from UI.
+Tools Provided:
+
+·         IDE:  Spring source  (a version of eclipse ide)
+
+·         Database: MySql 5.1
+Evaluation Criteria:
+
+We will be evaluating the candidate on multiple dimensions, he should be good in atleast 3 dimensions,
+
+·         OOP concepts
+
+·         DB design
+
+·         Use of frameworks like Hibernate, Spring, Struts
+
+·         Javascript/Ajax features
+
+·         HTML, CSS, usability and navigation of the page
+
+2 Round : Project Manager discussion
+
+ 
+
+3 Round : HR Discussion (Final Round)
+
+ 
+
+Finally you will get the confirmation for interview status on same day.
+
+ 
+
+ 
+
+ 
+
+Regards,
+VelmuruganN -9894986955
+Human Resources
+HCL Technologies Ltd,
